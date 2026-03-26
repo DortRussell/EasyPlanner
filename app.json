@@ -4,7 +4,7 @@
     "slug": "EasyPlanner",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/icon5.png",
     "scheme": "easyplanner",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
